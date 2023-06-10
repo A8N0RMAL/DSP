@@ -1,0 +1,1 @@
+z formula u will input --> np.sin(2 * np.pi * x)
